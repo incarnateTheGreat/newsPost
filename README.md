@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NewsPost
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# newsPost
+News Post w/Angular 4
+>>>>>>> 36232cff37e65b6ad74ee731bf9c10ac8b5168ba
