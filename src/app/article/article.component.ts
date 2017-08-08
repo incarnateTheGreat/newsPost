@@ -19,6 +19,7 @@ export class ArticleComponent implements OnInit {
     this.articleDataObj = {
       title: '',
       exerpt: '',
+      mainImageURL: '',
       pageData: '',
       slideshowData: {}
     };
@@ -29,12 +30,11 @@ export class ArticleComponent implements OnInit {
       console.log(data)
       this.articleDataObj.title = data.Title;
       this.articleDataObj.excerpt = data.Excerpt;
-      // this.articleDataObj.pageData = data.Pages;
+      this.articleDataObj.mainImageURL = data.MainImageUrl;
 
       // _.forEach(this.articleDataObj.pageData, function(page) {
       //   console.log(page)
       // });
-
       this.articleDataObj.pageData += data.Pages[1][0].Content;
       this.articleDataObj.slideshowData = data.Pages[1][1];
 

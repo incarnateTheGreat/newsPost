@@ -5,7 +5,8 @@
   <h2>{{articleDataObj.excerpt}}</h2>
 </aside>
 <article>
+  <img src="{{articleDataObj.mainImageURL}}" alt="{{articleDataObj.title}}" title="{{articleDataObj.title}}" />
   <section [innerHTML]='articleDataObj.pageData'>{{articleDataObj.pageData}}</section>
 
-  <!-- <app-slideshow [slideshowData]='articleDataObj.slideshowData'></app-slideshow> -->
+  <app-slideshow [slideshowData]='articleDataObj.slideshowData'></app-slideshow>
 </article>
