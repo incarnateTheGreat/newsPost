@@ -1,0 +1,532 @@
+{
+  "Pages": {
+    "1": [
+      {
+        "Type": "TextBlock",
+        "Content": "<p>Over the last 20 or more years, Adam Sandler has been at the top of the comedy world releasing hilarious movie after hilarious movie. From his time as a stand-up comedian to his five year stint on <i>Saturday Night Live</i> to his rewarding film career, Adam Sandler is always making audiences laugh hysterically with his relatable characters and extremely goofy humor. But there's a lot we don't know about the guy they call the Sandman. Check it out!</p><p><br></p><p>What is your favorite Adam Sandler role? <b>COMMENT </b>and let us know.&nbsp;</p>",
+        "Token": "<p>Over the last 20 or more years, Adam Sandler has been at the top of the comedy world releasing hilarious movie after hilarious movie. From his time as a stand-up comedian to his five year stint on <i>Saturday Night Live</i> to his rewarding film career, Adam Sandler is always making audiences laugh hysterically with his relatable characters and extremely goofy humor. But there's a lot we don't know about the guy they call the Sandman. Check it out!</p><p><br></p><p>What is your favorite Adam Sandler role? <b>COMMENT </b>and let us know.&nbsp;</p>",
+        "ComponentId": "572cffda-9c42-43bf-bdfc-512859a7ed54",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>1. He has been performing as a stand-up comedian since he was 17.</p>",
+        "StrippedTitle": "1. He has been performing as a stand-up comedian since he was 17.",
+        "Caption": "<p>There are even clips online of a much younger, less confident Sandler telling jokes in front of pretty small audiences.&nbsp;</p>",
+        "StrippedCaption": "There are even clips online of a much younger, less confident Sandler telling jokes in front of pretty small audiences.",
+        "Url": "//cdn.diply.com/article-images/a/0a86bd73-d417-45a6-97ab-bc49477207ff_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "comedy",
+          "standup",
+          "young"
+        ],
+        "Token": "<p>1. He has been performing as a stand-up comedian since he was 17.</p><p>There are even clips online of a much younger, less confident Sandler telling jokes in front of pretty small audiences.&nbsp;</p>//cdn.diply.com/article-images/a/0a86bd73-d417-45a6-97ab-bc49477207ff_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "YouTube",
+            "SourceName": "FromTheEighties1",
+            "UserUrl": "",
+            "SourceUrl": "https://www.youtube.com/watch?v=N2yGdCza3AY",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "3e6dc63e-1fa9-4954-aa28-ea7abf8c1615",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>2. He attended NYU and graduated in 1988.</p>",
+        "StrippedTitle": "2. He attended NYU and graduated in 1988.",
+        "Caption": "<p>He enrolled in NYU's&nbsp;<span style=\"line-height: 1.846;\">Tisch School of the Arts while simultaneously improving his skills in the city's many late-night comedy clubs.&nbsp;</span></p>",
+        "StrippedCaption": "He enrolled in NYU'sTisch School of the Arts while simultaneously improving his skills in the city's many late-night comedy clubs.",
+        "Url": "//cdn.diply.com/article-images/a/70d4a93a-f97e-4fbd-ac44-8f03ca65ae37_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "new",
+          "york",
+          "city"
+        ],
+        "Token": "<p>2. He attended NYU and graduated in 1988.</p><p>He enrolled in NYU's&nbsp;<span style=\"line-height: 1.846;\">Tisch School of the Arts while simultaneously improving his skills in the city's many late-night comedy clubs.&nbsp;</span></p>//cdn.diply.com/article-images/a/70d4a93a-f97e-4fbd-ac44-8f03ca65ae37_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "MTV",
+            "UserUrl": "",
+            "SourceUrl": "http://www.mtv.com/artists/adam-sandler/",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "9ccdedc7-6500-4dca-98d7-57bd1ee4ff53",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Ad Placeholder",
+        "ComponentId": "8ec99a91-e562-4aef-a037-3346b4f6cc02",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>3. After graduation he became a regular on the MTV game show<i> Remote Control</i>.&nbsp;</p>",
+        "StrippedTitle": "3. After graduation he became a regular on the MTV game show Remote Control.",
+        "Caption": "<p>The show incorporated sketch comedy and trivia and was MTV's first original program that didn't revolve around music.</p>",
+        "StrippedCaption": "The show incorporated sketch comedy and trivia and was MTV's first original program that didn't revolve around music.",
+        "Url": "//cdn.diply.com/article-images/a/498f5385-3306-43c0-81c3-883fbfbb7961_desktop.jpg",
+        "Tags": [
+          "remote",
+          "control",
+          "adam",
+          "sandler"
+        ],
+        "Token": "<p>3. After graduation he became a regular on the MTV game show<i> Remote Control</i>.&nbsp;</p><p>The show incorporated sketch comedy and trivia and was MTV's first original program that didn't revolve around music.</p>//cdn.diply.com/article-images/a/498f5385-3306-43c0-81c3-883fbfbb7961_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Adam Sandler Fan Page",
+            "UserUrl": "",
+            "SourceUrl": "http://adamsandlerfanpage.weebly.com/bio-page.html",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "d328c0f0-a4c6-468f-ad39-faf98ca952cb",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>4. It's been rumored that in all his years of stand-up, Sandler has never <i>written</i> a joke.</p>",
+        "StrippedTitle": "4. It's been rumored that in all his years of stand-up, Sandler has never written a joke.",
+        "Caption": "<p>Apparently Sandler likes to wing it on stage, and doesn't come up with any jokes until he's in front of the audience.&nbsp;</p>",
+        "StrippedCaption": "Apparently Sandler likes to wing it on stage, and doesn't come up with any jokes until he's in front of the audience.",
+        "Url": "//cdn.diply.com/article-images/a/5ce999fc-9085-4264-b2ff-5c84890c9d7f_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "comedy",
+          "microphone"
+        ],
+        "Token": "<p>4. It's been rumored that in all his years of stand-up, Sandler has never <i>written</i> a joke.</p><p>Apparently Sandler likes to wing it on stage, and doesn't come up with any jokes until he's in front of the audience.&nbsp;</p>//cdn.diply.com/article-images/a/5ce999fc-9085-4264-b2ff-5c84890c9d7f_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Click Hole",
+            "UserUrl": "",
+            "SourceUrl": "http://www.clickhole.com/article/5-tragedies-weirdly-predicted-adam-sandler-783",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "6676d426-9fb3-4784-ac8a-83283e3c33f2",
+        "VersionNumber": 0
+      }
+    ],
+    "2": [
+      {
+        "Type": "Image",
+        "Title": "<p>5. Sandler and Judd Apatow used to be roommates.</p>",
+        "StrippedTitle": "5. Sandler and Judd Apatow used to be roommates.",
+        "Caption": "<p>While trying to make it big, the two lived together in a cheap apartment where Sandler just slept on a mattress on the floor. Footage of their days together is featured in the intro to Apatow's movie&nbsp;<i>Funny People</i>.&nbsp;</p>",
+        "StrippedCaption": "While trying to make it big, the two lived together in a cheap apartment where Sandler just slept on a mattress on the floor. Footage of their days together is featured in the intro to Apatow's movieFunny People.",
+        "Url": "//cdn.diply.com/article-images/a/dd978b03-ab5c-48f7-a45c-3980b368794f_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "judd",
+          "apatow",
+          "roommates"
+        ],
+        "Token": "<p>5. Sandler and Judd Apatow used to be roommates.</p><p>While trying to make it big, the two lived together in a cheap apartment where Sandler just slept on a mattress on the floor. Footage of their days together is featured in the intro to Apatow's movie&nbsp;<i>Funny People</i>.&nbsp;</p>//cdn.diply.com/article-images/a/dd978b03-ab5c-48f7-a45c-3980b368794f_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Hollywood Reporter",
+            "UserUrl": "",
+            "SourceUrl": "http://www.hollywoodreporter.com/gallery/is-judd-apatow-king-comedys-400706",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "f08d81f0-f015-422c-bc65-29355fe439b8",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>6. He almost portrayed Willy Wonka in Tim Burton's 2005 film.&nbsp;</p>",
+        "StrippedTitle": "6. He almost portrayed Willy Wonka in Tim Burton's 2005 film.",
+        "Caption": "<p>Sandler made it to the final audition stages but the iconic director eventually decided to go with his old pal Johnny Depp.&nbsp;</p>",
+        "StrippedCaption": "Sandler made it to the final audition stages but the iconic director eventually decided to go with his old pal Johnny Depp.",
+        "Url": "//cdn.diply.com/article-images/a/0c3761aa-633c-45ef-9c30-69ed3f54c7e7_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "willy",
+          "wonka"
+        ],
+        "Token": "<p>6. He almost portrayed Willy Wonka in Tim Burton's 2005 film.&nbsp;</p><p>Sandler made it to the final audition stages but the iconic director eventually decided to go with his old pal Johnny Depp.&nbsp;</p>//cdn.diply.com/article-images/a/0c3761aa-633c-45ef-9c30-69ed3f54c7e7_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "What Culture",
+            "UserUrl": "",
+            "SourceUrl": "http://whatculture.com/film/7-movies-almost-ruined-by-adam-sandler?page=2",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "e6379ae8-e482-4ecd-8b25-2acf88b5d1e9",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Ad Placeholder",
+        "ComponentId": "cd6b59aa-eb2b-4941-84e1-5c5b4792bc42",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>7. He used to date Alicia Silverstone.</p>",
+        "StrippedTitle": "7. He used to date Alicia Silverstone.",
+        "Caption": "<p>I don't know if things were ever really serious, but she did rock a full <i>Happy Gilmore</i> outfit at the film's premier.&nbsp;</p>",
+        "StrippedCaption": "I don't know if things were ever really serious, but she did rock a full Happy Gilmore outfit at the film's premier.",
+        "Url": "//cdn.diply.com/article-images/a/c9a8d0bb-4de8-4836-a4dd-a4663e2780d4_desktop.jpg",
+        "Tags": [
+          "alicia",
+          "silverstone",
+          "adam",
+          "sandler",
+          "happy",
+          "gilmore"
+        ],
+        "Token": "<p>7. He used to date Alicia Silverstone.</p><p>I don't know if things were ever really serious, but she did rock a full <i>Happy Gilmore</i> outfit at the film's premier.&nbsp;</p>//cdn.diply.com/article-images/a/c9a8d0bb-4de8-4836-a4dd-a4663e2780d4_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "The Odyssey Online",
+            "UserUrl": "",
+            "SourceUrl": "https://www.theodysseyonline.com/photographic-proof-the-90s-was-the-best-decade",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "9eb7bb0f-e643-4861-98aa-59f887abc17f",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p><br></p>",
+        "StrippedTitle": "",
+        "Caption": "",
+        "StrippedCaption": "",
+        "Url": "//cdn.diply.com/article-images/a/3379f548-c4e2-4b4b-872b-58ccc5866671_desktop.gif",
+        "Tags": [
+          "happy",
+          "gilmore",
+          "adam",
+          "sandler",
+          "golf"
+        ],
+        "Token": "<p><br></p>//cdn.diply.com/article-images/a/3379f548-c4e2-4b4b-872b-58ccc5866671_desktop.gif",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Giphy",
+            "UserUrl": "",
+            "SourceUrl": "http://giphy.com/gifs/movie-comedy-humor-dYqCXRgxyakLu",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "1bd43e23-d2d0-43fb-8d9b-8333970df8cb",
+        "VersionNumber": 0
+      }
+    ],
+    "3": [
+      {
+        "Type": "Image",
+        "Title": "<p>8. His net worth is over 300M!</p>",
+        "StrippedTitle": "8. His net worth is over 300M!",
+        "Caption": "<p>But you wouldn't know it by the way he dresses on all of his talk show appearances.</p>",
+        "StrippedCaption": "But you wouldn't know it by the way he dresses on all of his talk show appearances.",
+        "Url": "//cdn.diply.com/article-images/a/e38e3119-201f-4f4c-a3ba-b26ca6c81d49_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "late",
+          "night",
+          "talk",
+          "show"
+        ],
+        "Token": "<p>8. His net worth is over 300M!</p><p>But you wouldn't know it by the way he dresses on all of his talk show appearances.</p>//cdn.diply.com/article-images/a/e38e3119-201f-4f4c-a3ba-b26ca6c81d49_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Just Richest",
+            "UserUrl": "",
+            "SourceUrl": "http://justrichest.com/adam-sandler-net-worth-how-much-is-adam-sandler-worth/",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "360a66ea-f1ff-41f5-9288-3e650a069f6c",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>9. Combined, his films have grossed over a billion dollars worldwide.&nbsp;</p>",
+        "StrippedTitle": "9. Combined, his films have grossed over a billion dollars worldwide.",
+        "Caption": "<p>Whether you love him or hate him, that's pretty impressive.&nbsp;</p>",
+        "StrippedCaption": "Whether you love him or hate him, that's pretty impressive.",
+        "Url": "//cdn.diply.com/article-images/a/6355dec5-27a6-4b65-98fa-8aaa8a8b4a3e_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "movie",
+          "covers",
+          "film",
+          "dvd"
+        ],
+        "Token": "<p>9. Combined, his films have grossed over a billion dollars worldwide.&nbsp;</p><p>Whether you love him or hate him, that's pretty impressive.&nbsp;</p>//cdn.diply.com/article-images/a/6355dec5-27a6-4b65-98fa-8aaa8a8b4a3e_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Max Dome",
+            "UserUrl": "",
+            "SourceUrl": "http://blog.maxdome.de/kino-film/adam-sandler-filme-genie-undoder-wahnsinn",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "dc356fb1-4de0-47db-a287-840680314081",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Ad Placeholder",
+        "ComponentId": "1a8d595b-c3ab-4880-b967-dd0ec3311249",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>10. He loves dogs.</p>",
+        "StrippedTitle": "10. He loves dogs.",
+        "Caption": "<p>We've all seen his prized bulldog Meatball in films like <i>Little Nicky</i>, but did you know that his other dog Matzoball was actually in his wedding party?</p>",
+        "StrippedCaption": "We've all seen his prized bulldog Meatball in films like Little Nicky, but did you know that his other dog Matzoball was actually in his wedding party?",
+        "Url": "//cdn.diply.com/article-images/a/b1af83c3-8046-4f43-96cc-68c8e6a2156c_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "bulldog",
+          "pet",
+          "wedding",
+          "party"
+        ],
+        "Token": "<p>10. He loves dogs.</p><p>We've all seen his prized bulldog Meatball in films like <i>Little Nicky</i>, but did you know that his other dog Matzoball was actually in his wedding party?</p>//cdn.diply.com/article-images/a/b1af83c3-8046-4f43-96cc-68c8e6a2156c_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "AART Weddings",
+            "UserUrl": "",
+            "SourceUrl": "http://www.aatrweddings.com/rachel-jordan-42/",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "33e259cb-a485-47d7-860d-32e7e8913e7d",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "",
+        "StrippedTitle": "",
+        "Caption": "",
+        "StrippedCaption": "",
+        "Url": "//cdn.diply.com/article-images/a/b8c00516-9c33-4008-8af0-16999c3b5805_desktop.gif",
+        "Tags": [
+          "adam",
+          "sandler",
+          "billy",
+          "madison"
+        ],
+        "Token": "//cdn.diply.com/article-images/a/b8c00516-9c33-4008-8af0-16999c3b5805_desktop.gif",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Giphy",
+            "UserUrl": "",
+            "SourceUrl": "http://giphy.com/gifs/sandler-sentences-sounding-l52CGyJ4LZPa0",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "2bd3141b-5d32-4f2e-af5f-a72afb49cdb1",
+        "VersionNumber": 0
+      }
+    ],
+    "4": [
+      {
+        "Type": "Image",
+        "Title": "<p>11. His college professors told him that he'd never make it big.</p>",
+        "StrippedTitle": "11. His college professors told him that he'd never make it big.",
+        "Caption": "<p>Apparently Sandler had trouble paying attention during lectures, and many of his instructors gave him negative evaluations.&nbsp;</p>",
+        "StrippedCaption": "Apparently Sandler had trouble paying attention during lectures, and many of his instructors gave him negative evaluations.",
+        "Url": "//cdn.diply.com/article-images/a/77b02ad0-1c8a-4cdd-b634-c8d4631235e4_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "billy",
+          "madison"
+        ],
+        "Token": "<p>11. His college professors told him that he'd never make it big.</p><p>Apparently Sandler had trouble paying attention during lectures, and many of his instructors gave him negative evaluations.&nbsp;</p>//cdn.diply.com/article-images/a/77b02ad0-1c8a-4cdd-b634-c8d4631235e4_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "And Pop",
+            "UserUrl": "",
+            "SourceUrl": "http://www.andpop.com/2013/09/03/10-movies-where-adults-go-back-to-school/",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "8d94d9c1-8a0b-4920-9884-ad70c55971a0",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>12. He credits his father as a major comedic influence.</p>",
+        "StrippedTitle": "12. He credits his father as a major comedic influence.",
+        "Caption": "<p>His father wasn't particularly funny, but he did have a temper. Sandler says that as a young kid, he used humor to get his father to calm down.&nbsp;</p>",
+        "StrippedCaption": "His father wasn't particularly funny, but he did have a temper. Sandler says that as a young kid, he used humor to get his father to calm down.",
+        "Url": "//cdn.diply.com/article-images/a/7a599def-10cb-4fa2-b984-639d49f21f64_desktop.jpg",
+        "Tags": [
+          "adam",
+          "sandler",
+          "dad",
+          "kid"
+        ],
+        "Token": "<p>12. He credits his father as a major comedic influence.</p><p>His father wasn't particularly funny, but he did have a temper. Sandler says that as a young kid, he used humor to get his father to calm down.&nbsp;</p>//cdn.diply.com/article-images/a/7a599def-10cb-4fa2-b984-639d49f21f64_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Ranker",
+            "UserUrl": "",
+            "SourceUrl": "http://www.ranker.com/list/adam-sandler-facts/coy-jandreau?utm_expid=16418821-195.lA6itfmOSOe_7Uz8Ip21PQ.0&utm_referrer=https%3A%2F%2Fwww.google.ca%2F",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "71ddd1e7-5bec-4b72-b86a-32bcb0da9d78",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Ad Placeholder",
+        "ComponentId": "46b51998-0822-43ae-adb7-59f5d6131fda",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p>13. Almost all of the characters he plays has a name that ends in the letter Y.&nbsp;</p>",
+        "StrippedTitle": "13. Almost all of the characters he plays has a name that ends in the letter Y.",
+        "Caption": "<p>Happy, Billy, Sonny, Whitey... think about it! In addition, almost all the love interests have names that start with the letter V. Veronica, Vicky, Virginia, Vanessa...</p>",
+        "StrippedCaption": "Happy, Billy, Sonny, Whitey... think about it! In addition, almost all the love interests have names that start with the letter V. Veronica, Vicky, Virginia, Vanessa...",
+        "Url": "//cdn.diply.com/article-images/a/7e3af170-ce73-49bc-8ccc-4364d930d5aa_desktop.jpg",
+        "Tags": [
+          "big",
+          "daddy",
+          "adam",
+          "sandler"
+        ],
+        "Token": "<p>13. Almost all of the characters he plays has a name that ends in the letter Y.&nbsp;</p><p>Happy, Billy, Sonny, Whitey... think about it! In addition, almost all the love interests have names that start with the letter V. Veronica, Vicky, Virginia, Vanessa...</p>//cdn.diply.com/article-images/a/7e3af170-ce73-49bc-8ccc-4364d930d5aa_desktop.jpg",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Cinema",
+            "UserUrl": "",
+            "SourceUrl": "http://www.cinema.de/bilder/big-daddy,1318077.html",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "346188bb-f41d-42e7-9300-a0b9d52f8be0",
+        "VersionNumber": 0
+      },
+      {
+        "Type": "Image",
+        "Title": "<p><b>COMMENT </b>and share your favorite Adam Sandler role with us!</p>",
+        "StrippedTitle": "COMMENT and share your favorite Adam Sandler role with us!",
+        "Caption": "",
+        "StrippedCaption": "",
+        "Url": "//cdn.diply.com/article-images/a/01394b33-6e0d-4d56-b050-161b157850cb_desktop.gif",
+        "Tags": [
+          "adam",
+          "sandler",
+          "wedding",
+          "singer",
+          "funny"
+        ],
+        "Token": "<p><b>COMMENT </b>and share your favorite Adam Sandler role with us!</p>//cdn.diply.com/article-images/a/01394b33-6e0d-4d56-b050-161b157850cb_desktop.gif",
+        "Attributions": [
+          {
+            "Name": "",
+            "SourceName": "Giphy",
+            "UserUrl": "",
+            "SourceUrl": "http://giphy.com/gifs/movie-adam-sandler-the-wedding-singer-65ZYz26HfUqyc",
+            "Date": "0001-01-01T00:00:00"
+          }
+        ],
+        "ComponentId": "d2c87828-e7c3-4c43-b36a-4ec91e39ab17",
+        "VersionNumber": 0
+      }
+    ]
+  },
+  "ContainsVideoEmbed": false,
+  "Category": {
+    "Name": "Pop Culture",
+    "Slug": "pop-culture",
+    "ParentCategoryId": "35",
+    "ParentCategoryName": "Culture",
+    "ParentCategorySlug": "culture",
+    "IsCloaked": false,
+    "id": "26",
+    "Environment": "Production",
+    "IsDeleted": false
+  },
+  "OriginalAuthor": {
+    "Name": "AdotLalama",
+    "AvatarUrl": "//graph.facebook.com/v2.0/10155690383290524/picture",
+    "Bio": "Loathes beaches, humidity, and the general public. Likes cheese, cured meat and couches.",
+    "FacebookUrl": "https://www.facebook.com/app_scoped_user_id/10155690383290524/",
+    "TwitterUrl": null,
+    "GooglePlusUrl": null,
+    "WebsiteUrl": null,
+    "LegacyUserId": "144426",
+    "id": "google-oauth2|102323992725624017076",
+    "Environment": null,
+    "IsDeleted": false
+  },
+  "Title": "13 Things Most People Don't Know About Adam Sandler",
+  "Slug": "fun-adam-sandler-facts",
+  "Excerpt": "Here's everything you didn't know about the Sandman. ",
+  "MainImageUrl": "//cdn.diply.com/article-images/a/541f6bc9-980d-40bd-ab20-35e3184d8fa4_desktop.jpg",
+  "MainImageAttributions": [
+    {
+      "Name": "",
+      "SourceName": "Just Richest",
+      "UserUrl": "",
+      "SourceUrl": "http://justrichest.com/adam-sandler-net-worth-how-much-is-adam-sandler-worth/",
+      "Date": "0001-01-01T00:00:00"
+    }
+  ],
+  "PublishedAt": "2017-05-08T14:20:25.875764Z",
+  "IsVideoArticle": false,
+  "ReplaceUserAttribution": false,
+  "Tags": [
+    "adam",
+    "sandler",
+    "facts",
+    "funny",
+    "entertainment",
+    "popular",
+    "culture"
+  ],
+  "NextArticle": {
+    "Title": "18 Celebrities Who Died Without Us Realizing It",
+    "Excerpt": "Rest in peace!",
+    "Url": "celebs-who-died",
+    "MainImageUrl": "//cdns.diply.com/article-images/a/db1cab3c-437a-418e-a32d-764d264fa4c9_desktop.jpg",
+    "PublishedDate": "2017-05-07T16:39:00.1008843Z",
+    "UserName": "AdotLalama",
+    "UserAvatarUrl": "//graph.facebook.com/v2.0/10155690383290524/picture",
+    "CategoryName": "Pop Culture",
+    "IsVideoArticle": false,
+    "id": "celebs-who-died"
+  },
+  "Language": "en",
+  "id": "fun-adam-sandler-facts"
+}

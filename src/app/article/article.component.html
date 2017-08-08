@@ -1,0 +1,11 @@
+<header>
+  <h1>{{articleDataObj.title}}</h1>
+</header>
+<aside>
+  <h2>{{articleDataObj.excerpt}}</h2>
+</aside>
+<article>
+  <section [innerHTML]='articleDataObj.pageData'>{{articleDataObj.pageData}}</section>
+
+  <!-- <app-slideshow [slideshowData]='articleDataObj.slideshowData'></app-slideshow> -->
+</article>
