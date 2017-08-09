@@ -1,0 +1,26 @@
+<article>
+  <div *ngFor="let x of videoObjData.pageData">
+    <div *ngFor="let objArrayElement of x">
+      <div *ngIf="objArrayElement.Type === 'VideoEmbed'">
+        <header>
+          <h2>{{videoObjData.title}}</h2>
+          <h4>{{videoObjData.excerpt}}</h4>
+        </header>
+        <section>
+          <div class="videoContainer">
+            <video controls>
+              <source src="{{objArrayElement.Properties.mp4_url}}" type="video/mp4">
+              <source src="{{objArrayElement.Properties.hls_url}}" type="video/hls">
+            </video>
+          </div>
+        </section>
+      </div>
+      <div *ngIf="objArrayElement.Type === 'TextBlock'">
+        <section>
+          <app-article-text [textContent]="objArrayElement"
+                            class="col-lg-12 col-md-12 col-sm-4"></app-article-text>
+        </section>
+      </div>
+    </div>
+  </div>
+</article>

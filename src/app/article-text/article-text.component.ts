@@ -10,7 +10,5 @@ export class ArticleTextComponent implements OnChanges {
 
   constructor() { }
 
-  ngOnChanges() {
-    console.log('Article Text:', this.textContent)
-  }
+  ngOnChanges() { }
 }

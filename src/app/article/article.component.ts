@@ -34,7 +34,6 @@ export class ArticleComponent implements OnInit {
       this.articleDataObj.mainImageURL = data.MainImageUrl;
 
       for(let key in data.Pages) {
-        console.log(data.Pages[key])
         this.articleDataObj.pageData.push(data.Pages[key]);
       }
     })

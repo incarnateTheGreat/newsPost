@@ -1,6 +1,10 @@
 <div class="container">
+  <nav>
+    <a routerLink="/story">Story</a>
+    <a routerLink="/video">Video</a>
+  </nav>
   <div class="row">
-    <app-article class="col-sm-12 col-md-12 col-lg-12"></app-article>
+    <router-outlet></router-outlet>
   </div>
 </div>
 <footer>

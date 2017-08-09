@@ -6,6 +6,13 @@ article {
   background: #eee;
   overflow: hidden;
 
+  .videoContainer {
+    text-align: center;
+    video {
+      width: 80%;
+    }
+  }
+
   header {
     h2 {
       padding: 2px 25px 10px 14px;
