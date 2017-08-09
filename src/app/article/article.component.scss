@@ -1,0 +1,32 @@
+article {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background: #eee;
+  // padding: 10px 20px;
+  overflow: hidden;
+
+  header {
+    h2 {
+      padding: 5px 10px;
+      background-color: rgba(#AAA, 0.8);
+      margin: 0;
+    }
+    h4 {
+      padding: 5px 10px;
+      background-color: rgba(#AAA, 0.3);
+    }
+  }
+
+  img {
+    float: left;
+    padding: 0 15px 20px 0;
+  }
+  section {
+    float: left;
+  }
+  aside {
+    float: left;
+  }
+}

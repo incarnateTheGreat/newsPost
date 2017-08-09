@@ -1,12 +1,19 @@
-<header>
-  <h1>{{articleDataObj.title}}</h1>
-</header>
-<aside>
-  <h2>{{articleDataObj.excerpt}}</h2>
-</aside>
 <article>
-  <img src="{{articleDataObj.mainImageURL}}" alt="{{articleDataObj.title}}" title="{{articleDataObj.title}}" />
-  <section [innerHTML]='articleDataObj.pageData'>{{articleDataObj.pageData}}</section>
+  <header>
+    <h2>{{articleDataObj.title}}</h2>
+    <h4>{{articleDataObj.excerpt}}</h4>
+  </header>
+  <section class="col-lg-12">
+    <img src="{{articleDataObj.mainImageURL}}" alt="{{articleDataObj.title}}" title="{{articleDataObj.title}}" />
+    <div [innerHTML]='articleDataObj.pageData'>{{articleDataObj.pageData}}</div>
 
-  <app-slideshow [slideshowData]='articleDataObj.slideshowData'></app-slideshow>
+    <app-slideshow [slideshowData]='articleDataObj.slideshowData'></app-slideshow>
+  </section>
+  <aside class="col-md-4" style="display: none; background: lightgrey">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultrices placerat nulla sit amet ullamcorper. Maecenas sit amet libero id arcu sagittis tincidunt at in ante. Etiam in sagittis sem. Donec nibh arcu, imperdiet quis mi ut, convallis mattis ligula. Nam nec commodo arcu. Proin at libero non lectus dictum feugiat. Praesent at tincidunt quam. Nullam vel nulla sed dui ornare lacinia at nec enim.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultrices placerat nulla sit amet ullamcorper. Maecenas sit amet libero id arcu sagittis tincidunt at in ante. Etiam in sagittis sem. Donec nibh arcu, imperdiet quis mi ut, convallis mattis ligula. Nam nec commodo arcu. Proin at libero non lectus dictum feugiat. Praesent at tincidunt quam. Nullam vel nulla sed dui ornare lacinia at nec enim.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultrices placerat nulla sit amet ullamcorper. Maecenas sit amet libero id arcu sagittis tincidunt at in ante. Etiam in sagittis sem. Donec nibh arcu, imperdiet quis mi ut, convallis mattis ligula. Nam nec commodo arcu. Proin at libero non lectus dictum feugiat. Praesent at tincidunt quam. Nullam vel nulla sed dui ornare lacinia at nec enim.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultrices placerat nulla sit amet ullamcorper. Maecenas sit amet libero id arcu sagittis tincidunt at in ante. Etiam in sagittis sem. Donec nibh arcu, imperdiet quis mi ut, convallis mattis ligula. Nam nec commodo arcu. Proin at libero non lectus dictum feugiat. Praesent at tincidunt quam. Nullam vel nulla sed dui ornare lacinia at nec enim.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultrices placerat nulla sit amet ullamcorper. Maecenas sit amet libero id arcu sagittis tincidunt at in ante. Etiam in sagittis sem. Donec nibh arcu, imperdiet quis mi ut, convallis mattis ligula. Nam nec commodo arcu. Proin at libero non lectus dictum feugiat. Praesent at tincidunt quam. Nullam vel nulla sed dui ornare lacinia at nec enim.</p>
+  </aside>
 </article>

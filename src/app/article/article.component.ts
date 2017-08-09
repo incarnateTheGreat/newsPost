@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import _ from 'lodash';
 
 //Components
@@ -10,7 +11,7 @@ import { GetArticleDataService } from '../services/get-article-data.service';
 @Component({
   selector: 'app-article',
   templateUrl: './article.component.html',
-  styleUrls: ['./article.component.css']
+  styleUrls: ['./article.component.scss']
 })
 export class ArticleComponent implements OnInit {
   articleDataObj: any;
