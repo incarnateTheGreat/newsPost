@@ -10,7 +10,5 @@ export class ArticleAdComponent implements OnChanges {
 
   constructor() { }
 
-  ngOnChanges() {
-    console.log('Advert:', this.adObject)
-  }
+  ngOnChanges() { }
 }

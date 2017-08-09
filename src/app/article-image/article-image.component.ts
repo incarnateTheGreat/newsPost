@@ -10,7 +10,5 @@ export class ArticleImageComponent implements OnChanges {
 
   constructor() { }
 
-  ngOnChanges() {
-    console.log('Article Image:', this.imageObj)
-  }
+  ngOnChanges() { }
 }
