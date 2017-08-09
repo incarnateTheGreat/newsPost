@@ -10,12 +10,18 @@ import { SlideshowComponent } from './slideshow/slideshow.component';
 
 //Services
 import { GetArticleDataService } from './services/get-article-data.service';
+import { ArticleImageComponent } from './article-image/article-image.component';
+import { ArticleTextComponent } from './article-text/article-text.component';
+import { ArticleAdComponent } from './article-ad/article-ad.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ArticleComponent,
-    SlideshowComponent
+    SlideshowComponent,
+    ArticleImageComponent,
+    ArticleTextComponent,
+    ArticleAdComponent
   ],
   imports: [
     BrowserModule,
