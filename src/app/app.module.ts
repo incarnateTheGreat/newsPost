@@ -7,14 +7,15 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 //Components
 import { AppComponent } from './app.component';
 import { ArticleComponent } from './article/article.component';
-import { ArticleImageComponent } from './article-image/article-image.component';
-import { ArticleTextComponent } from './article-text/article-text.component';
-import { ArticleAdComponent } from './article-ad/article-ad.component';
+import { ArticleImageComponent } from './article/article-image/article-image.component';
+import { ArticleTextComponent } from './article/article-text/article-text.component';
+import { ArticleAdComponent } from './article/article-ad/article-ad.component';
 import { VideoComponent } from './video/video.component';
 
 //Services
 import { GetArticleDataService } from './services/get-article-data.service';
 import { GetVideoDataService } from './services/get-video-data.service';
+import { NavComponent } from './nav/nav.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { GetVideoDataService } from './services/get-video-data.service';
     ArticleImageComponent,
     ArticleTextComponent,
     ArticleAdComponent,
-    VideoComponent
+    VideoComponent,
+    NavComponent
   ],
   imports: [
     BrowserModule,

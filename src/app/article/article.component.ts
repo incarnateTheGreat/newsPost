@@ -3,9 +3,9 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import _ from 'lodash';
 
 //Components
-import { ArticleTextComponent } from '../article-text/article-text.component';
-import { ArticleImageComponent } from '../article-image/article-image.component';
-import { ArticleAdComponent } from '../article-ad/article-ad.component';
+import { ArticleTextComponent } from './article-text/article-text.component';
+import { ArticleImageComponent } from './article-image/article-image.component';
+import { ArticleAdComponent } from './article-ad/article-ad.component';
 
 //Services
 import { GetArticleDataService } from '../services/get-article-data.service';
