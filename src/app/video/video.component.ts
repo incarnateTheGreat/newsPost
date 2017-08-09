@@ -1,7 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 
 //Services
 import { GetVideoDataService } from '../services/get-video-data.service';
+import { SlimLoadingBarService } from 'ng2-slim-loading-bar';
 
 @Component({
   selector: 'app-video',
@@ -11,7 +12,7 @@ import { GetVideoDataService } from '../services/get-video-data.service';
 export class VideoComponent implements OnInit {
   videoObjData: any;
 
-  constructor(private dataService:GetVideoDataService) {
+  constructor(private dataService:GetVideoDataService, private slimLoadingBarService: SlimLoadingBarService) {
     this.videoObjData = {
       title: '',
       excerpt: '',
@@ -23,6 +24,8 @@ export class VideoComponent implements OnInit {
   ngOnInit() {
     this.dataService.getData().subscribe((data) => {
       console.log(data);
+
+      this.startLoading();
       this.videoObjData.title = data.Title;
       this.videoObjData.excerpt = data.Excerpt;
 
@@ -33,12 +36,15 @@ export class VideoComponent implements OnInit {
       //On render, start the video if it is in view.
       setTimeout(() => {
         this.checkVideoInView();
+        this.completeLoading();
       }, 500);
 
-      document.addEventListener("scroll", () => {
-        this.checkVideoInView();
-      });
+      window.addEventListener("scroll", this.checkVideoInView, true);
     })
+  }
+
+  ngOnDestroy() {
+    window.removeEventListener("scroll", this.checkVideoInView, true);
   }
 
   checkVideoInView() {
@@ -57,4 +63,15 @@ export class VideoComponent implements OnInit {
     }
   }
 
+  startLoading() {
+    this.slimLoadingBarService.start();
+  }
+
+  stopLoading() {
+    this.slimLoadingBarService.stop();
+  }
+
+  completeLoading() {
+    this.slimLoadingBarService.complete();
+  }
 }

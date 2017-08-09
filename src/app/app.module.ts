@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { HttpModule} from '@angular/http'
 import { RouterModule } from '@angular/router';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { SlimLoadingBarModule } from 'ng2-slim-loading-bar';
 
 //Components
 import { AppComponent } from './app.component';
@@ -40,7 +41,8 @@ import { NavComponent } from './nav/nav.component';
         component: VideoComponent
       }
     ]),
-    NgbModule.forRoot()
+    NgbModule.forRoot(),
+    SlimLoadingBarModule.forRoot()
   ],
   providers: [
     GetArticleDataService,
