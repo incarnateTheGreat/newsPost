@@ -8,24 +8,28 @@ article {
 
   header {
     h2 {
-      padding: 5px 10px;
-      background-color: rgba(#AAA, 0.8);
+      padding: 2px 25px 10px 14px;
+      background-color: rgba(#AAA, 0.9);
       margin: 0;
+      font-size: 3em;
     }
     h4 {
-      padding: 5px 10px;
-      background-color: rgba(#AAA, 0.3);
+      padding: 5px 10px 7px 10px;
+      border-left: 23px solid;
+      margin: 0;
+      background-color: rgba(#AAA, 0.45);
     }
   }
-
-  img {
-    float: left;
-    padding: 0 15px 20px 0;
-  }
   section {
-    float: left;
+    text-align: center;
+    .headImageContainer {
+      background: rgba(#AAA, 0.25);
+      img {
+        width: 70%;
+      }
+    }
   }
-  aside {
-    float: left;
-  }
+}
+p {
+  padding: 0 10px;
 }

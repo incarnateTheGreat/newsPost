@@ -1,0 +1,22 @@
+.imageContainer {
+  clear: both;
+  padding: 10px 20px;
+  figure {
+    margin: 0 auto;
+    text-align: center;
+    display: table;
+    h5 {
+      text-align: left;
+      font-size: 2em;
+    }
+    figcaption {
+      background: #000;
+      color: #FFF;
+      padding: 10px 15px;
+      display: block;
+    }
+    img {
+      width: 100%;
+    }
+  }
+}
