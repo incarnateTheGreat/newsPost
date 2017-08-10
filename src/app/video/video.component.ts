@@ -23,8 +23,6 @@ export class VideoComponent implements OnInit {
 
   ngOnInit() {
     this.dataService.getData().subscribe((data) => {
-      console.log(data);
-
       this.startLoading();
       this.videoObjData.title = data.Title;
       this.videoObjData.excerpt = data.Excerpt;
@@ -52,7 +50,7 @@ export class VideoComponent implements OnInit {
           elementPosTop = video.offsetTop,
           viewportHeight = window.innerHeight;
 
-    let scrollPos = document.getElementsByTagName("html")[0].scrollTop,
+    const scrollPos = document.getElementsByTagName("html")[0].scrollTop,
         elementFromTop = elementPosTop - scrollPos;
 
     //If the video is in view, then begin playing.

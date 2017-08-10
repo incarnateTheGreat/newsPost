@@ -29,7 +29,6 @@ export class ArticleComponent implements OnInit {
 
   ngOnInit() {
     this.dataService.getData().subscribe((data) => {
-      console.log(data)
       this.startLoading();
       this.articleDataObj.title = data.Title;
       this.articleDataObj.excerpt = data.Excerpt;

@@ -9,7 +9,7 @@ article {
   header {
     h2 {
       padding: 2px 25px 10px 14px;
-      background-color: rgba(#AAA, 0.9);
+      background-color: rgba(#AAA, 0.375);
       margin: 0;
       font-size: 3em;
     }
@@ -17,15 +17,22 @@ article {
       padding: 5px 10px 7px 10px;
       border-left: 23px solid #0074C7;
       margin: 0;
-      background-color: rgba(#AAA, 0.45);
+      background-color: rgba(#AAA, 0.275);
     }
   }
   section {
     text-align: center;
     .headImageContainer {
-      background: rgba(#AAA, 0.25);
+      background: rgba(#AAA, 0.15);
       img {
         width: 50%;
+      }
+    }
+    .bottomNav {
+      margin: 0 0 10px;
+      overflow: hidden;
+      .facebook {
+        float: left;
       }
     }
   }
