@@ -4,7 +4,7 @@ News Post w/ Angular 4.
 
 ## Prerequisites
 * NodeJS
-* Angular 4 (npm install @angular/cli)
+* Angular 4 (npm install @angular/cli) [Angulr-cli website](https://cli.angular.io/)
 
 ## How to Install
 If you have both NodeJS and Angular 4 installed, then proceed to the following steps:
